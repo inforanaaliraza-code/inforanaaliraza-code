@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rana%20Ali%20Raza&fontSize=70&fontAlignY=40&desc=Senior%20Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Cloud%20Architect&descAlignY=60&animation=fadeIn" />
 
-<h2>🚀 Building Scalable SaaS, AI Systems & Enterprise Platforms</h2>
+<h2> Building Scalable SaaS, AI Systems & Enterprise Platforms</h2>
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;SaaS+Architect+%26+Cloud+Engineer;AI-Powered+Application+Developer;Multi-Tenant+System+Expert;Building+Products+from+Idea+to+Scale" />
@@ -18,7 +18,7 @@
 
 ---
 
-# ⚡ Executive Summary
+# Executive Summary
 
 I am a **Senior Full Stack Developer** specializing in **SaaS platforms, enterprise software, AI integrations, and cloud-native systems**.
 
@@ -26,7 +26,7 @@ From **frontend to backend**, **databases to DevOps**, and **AI agents to scalab
 
 ---
 
-# 🧠 About Me
+# About Me
 
 ```typescript
 const ranaAliRaza = {
@@ -102,7 +102,7 @@ OpenAI • LangChain • n8n • MCP • AI Agents
 
 # 💼 Services
 
-### 🚀 SaaS Development
+### SaaS Development
 
 Enterprise-grade SaaS platforms with subscriptions, analytics, RBAC, and multi-tenancy.
 
