@@ -1,181 +1,152 @@
 <div align="center">
 
-# Rana Ali Raza
+# 👋 Hi, I'm Rana Ali Raza
 
-<h3>🚀 Senior Full Stack Developer | ☁️ Cloud Architect | 🤖 AI Engineer</h3>
+### 🚀 Senior Full Stack Engineer | SaaS Architect | AI Solutions Engineer
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;SaaS+Architect+%26+Cloud+Engineer;AI-Powered+Application+Developer;Building+Scalable+Enterprise+Solutions;Expert+in+Modern+Web+Technologies" />
+Building scalable products from idea to production with modern web technologies, AI systems, and cloud-native architecture.
+</p>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;SaaS+Architect+%26+Cloud+Engineer;AI-Powered+Application+Developer;Enterprise+Software+Engineer;Building+Scalable+Digital+Products" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=inforanaaliraza-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/inforanaaliraza-code?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/inforanaaliraza-code?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-# 🙋‍♂️ About Me
+# 💼 Executive Summary
 
-```javascript
-const ranaAliRaza = {
-    role: "🚀 Senior Full Stack Developer",
-    expertise: "🏢 SaaS & Enterprise Systems",
-    specialization: "🤖 AI-Powered Applications",
-    cloud: "☁️ AWS, GCP & Azure",
-    architecture: "🏗️ Multi-Tenant Systems",
-    experience: "💼 Modern Web Technologies",
-    mission: "🔥 Building scalable products from concept to deployment",
-    currentFocus: "📚 AI Agents, SaaS Platforms & Cloud Solutions",
-    funFact: "☕ Turning ideas into scalable digital products!"
-};
-```
+I am a **Senior Full Stack Developer** specializing in **SaaS platforms, AI-powered applications, enterprise systems, and cloud-native architectures**.
 
-🔹 Passionate about building scalable SaaS platforms  
-🔹 Experienced in full-stack web development and cloud architecture  
-🔹 Building AI-powered applications and automation systems  
-🔹 Specialized in enterprise software solutions  
-🔹 Expert in API development and integrations  
-🔹 Always exploring new technologies 🚀  
+With expertise across frontend, backend, databases, APIs, DevOps, and AI integrations, I transform ideas into scalable digital products used by businesses worldwide.
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 👨‍💻 About Me
 
-## 💻 Frontend
+```typescript
+const ranaAliRaza = {
+  title: "Senior Full Stack Developer",
+  specialization: [
+    "SaaS Platforms",
+    "AI Systems",
+    "Enterprise Applications",
+    "Cloud Infrastructure"
+  ],
+  stack: "React • Next.js • NestJS • PostgreSQL",
+  cloud: ["AWS", "GCP", "Azure"],
+  ai: ["OpenAI", "LangChain", "AI Agents"],
+  architecture: [
+    "Multi-Tenant Systems",
+    "Microservices",
+    "Distributed Applications"
+  ],
+  mission: "Building scalable solutions that create business impact."
+};
+```
+
+---
+
+# 🚀 Core Competencies
+
+### 💻 Full Stack Engineering
+- Enterprise Web Applications
+- SaaS Platforms
+- CRM & ERP Systems
+- LMS Platforms
+- Multi-Tenant Architectures
+- API Ecosystems
+- Authentication & Authorization
+
+### 🤖 Artificial Intelligence
+- OpenAI Integrations
+- LangChain Development
+- AI Agents
+- Workflow Automation
+- LLM Applications
+- Intelligent Assistants
+
+### ☁️ Cloud & DevOps
+- Docker & Containerization
+- CI/CD Pipelines
+- Linux Servers
+- Cloud Deployments
+- Infrastructure Design
+- Scalability & Optimization
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Material UI
-- HTML5
-- CSS3
-
----
-
-## ⚙️ Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,python" />
 </p>
 
-- Node.js
-- NestJS
-- Express.js
-- Laravel
-- Python
-
----
-
-## 🗄️ Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
----
-
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
 </p>
 
-- AWS
-- Google Cloud Platform
-- Microsoft Azure
-- Docker
-- CI/CD Pipelines
-- Linux Servers
-
----
-
-## 🤖 AI & Automation
-
-- OpenAI API
-- LangChain
-- n8n
-- MCP Integrations
-- AI Agents
-
----
-
-## 🧰 Development Tools
+## Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=github,git,bitbucket,vscode" />
 </p>
 
+**Additional Tools:**
 - Cursor
 - Claude Code
 - GitHub Copilot
 - ChatGPT
+- n8n
+- MCP Integrations
 
 ---
 
-# 💼 Services
+# 🏢 Industry Experience
 
-### 🚀 SaaS Platforms
-Design and development of scalable SaaS applications with multi-tenant architecture, analytics dashboards, and enterprise workflows.
-
-### 🌐 Web Applications
-Custom business applications optimized for performance, security, and scalability.
-
-### 🛒 E-Commerce Solutions
-Development of online stores, payment integrations, inventory systems, and commerce platforms.
-
-### 🤖 AI Integrations
-Implementation of AI assistants, OpenAI workflows, automation systems, and intelligent applications.
-
-### 🔗 API Development
-REST APIs, GraphQL services, payment gateways, authentication systems, and microservices.
+✅ SaaS Platforms  
+✅ Learning Management Systems (LMS)  
+✅ Enterprise Dashboards  
+✅ CRM Solutions  
+✅ E-Commerce Platforms  
+✅ AI Applications  
+✅ API Ecosystems  
+✅ Multi-Tenant Systems  
 
 ---
 
-# 💼 Core Expertise
-
-## 🚀 Full Stack Development
-
-✅ Frontend Development  
-✅ Backend Development  
-✅ API Development  
-✅ Authentication Systems  
-✅ Multi-Tenant Architecture  
-✅ Performance Optimization  
-✅ Database Design  
-✅ Cloud Infrastructure  
-
-## 🤖 AI Engineering
-
-🧠 OpenAI Integrations  
-🧠 LangChain Applications  
-🧠 AI Agents  
-🧠 Workflow Automation  
-🧠 Intelligent Assistants  
-🧠 MCP Integrations  
-
-## ☁️ DevOps & Cloud
-
-☁️ AWS Deployment  
-☁️ Docker Containerization  
-☁️ CI/CD Pipelines  
-☁️ Linux Server Management  
-☁️ Cloud Architecture  
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=inforanaaliraza-code&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inforanaaliraza-code&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforanaaliraza-code&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
@@ -184,67 +155,42 @@ REST APIs, GraphQL services, payment gateways, authentication systems, and micro
 
 ---
 
-# 📊 Most Used Languages
+# 📊 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inforanaaliraza-code&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inforanaaliraza-code&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-# 📉 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inforanaaliraza-code&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 Experience
-
-✅ SaaS Platforms  
-✅ Learning Management Systems (LMS)  
-✅ Enterprise Dashboards  
-✅ CRM Systems  
-✅ E-Commerce Applications  
-✅ Multi-Tenant Architectures  
-✅ AI-Powered Solutions  
-✅ API Ecosystems  
 
 ---
 
 # 🌐 Portfolio
 
-🌍 Website: https://mraliraza.online
+### Website
+**https://mraliraza.online**
 
 ---
 
-# 🤝 Let's Connect!
+# 🤝 Let's Connect
 
-📧 Email: info.rana.aliraza@gmail.com
+📧 **Email:** info.rana.aliraza@gmail.com
 
-🌐 Portfolio: https://mraliraza.online
+🌍 **Website:** https://mraliraza.online
 
-💬 Open for collaborations on:
+💬 Open for:
 
-🔹 SaaS Platforms  
-🔹 AI Applications  
-🔹 Enterprise Software  
-🔹 API Development  
-🔹 Cloud Solutions  
-
----
-
-# 💭 Quote
-
-> "Technology is best when it empowers people and transforms ideas into reality."
+- SaaS Development
+- Enterprise Solutions
+- AI Integrations
+- Cloud Architecture
+- API Development
+- Technical Consulting
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Rana Ali Raza
+## 💡 Engineering scalable systems that drive business growth.
 
-⭐ If you like my work, consider giving a star! ⭐
+### Made with ❤️ by Rana Ali Raza
 
 </div>
