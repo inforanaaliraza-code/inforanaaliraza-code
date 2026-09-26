@@ -4,8 +4,11 @@
 
 <h2> Building Scalable SaaS, AI Systems & Enterprise Platforms</h2>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;SaaS+Architect+%26+Cloud+Engineer;AI-Powered+Application+Developer;Multi-Tenant+System+Expert;Building+Products+from+Idea+to+Scale" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Senior+Project+Manager+Officer;Senior+Full+Stack+Developer;SaaS+Architect+%26+Cloud+Engineer;AI-Powered+Application+Developer;Multi-Tenant+System+Expert;Building+Products+from+Idea+to+Scale"
+    alt="Typing animation showing professional roles"
+  />
 </p>
 
 <p>
